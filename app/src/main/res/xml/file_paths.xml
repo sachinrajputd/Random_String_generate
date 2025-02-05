@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Grant access to files stored in the app's cache directory -->
+    <cache-path name="cache" path="." />
+
+    <!-- Grant access to the app's internal storage -->
+    <files-path name="internal_files" path="." />
+
+    <!-- Grant access to a specific folder in external storage -->
+    <external-path name="external_files" path="Android/data/com.example.randomstringgenerateapp/files" />
+
+    <!-- Grant access to the downloads directory -->
+    <external-files-path name="downloads" path="Download/" />
+
+    <!-- Grant access to the pictures directory -->
+    <external-files-path name="pictures" path="Pictures/" />
+</paths>
