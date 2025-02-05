@@ -58,8 +58,8 @@ Open the Project:
 
 Open the project in Android Studio.
 Permissions:
- <uses-permission android:name="com.iav.contestdataprovider.READ" />
- <uses-permission android:name="com.iav.contestdataprovider.WRITE" />
+ uses-permission android:name="com.iav.contestdataprovider.READ" 
+ uses-permission android:name="com.iav.contestdataprovider.WRITE"
 
 Run the App:
 Build and run the app on a device or emulator.
